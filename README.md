@@ -1,6 +1,6 @@
 # AXON · public docs
 
-This repo holds the public-facing docs for **AXON** — execution memory for coding agents.
+This repo holds the public-facing docs for **AXON (Agent eXecution & Orchestration Node)** — execution memory for coding agents.
 
 The application code lives in a private monorepo. What you'll find here:
 
